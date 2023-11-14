@@ -1,6 +1,6 @@
 # Hi , I'm Nathalia Ruiz 👋 
 
-  <img src="https://user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif" width=""/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300"/>
  
 
   
