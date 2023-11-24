@@ -32,7 +32,7 @@
 ## My Current Stack (I'm learning 👩‍💻📚..)
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="100"/>
- <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,php,py,vscode,nodejs,postman,git)](https://skillicons.dev"/>
+ <img src="https://skillicons.dev/icons?i=js,html,css,sass,java,php,vscode,nodejs,postman,git)](https://skillicons.dev"/>
 </p>
 <!---
 NathaRuiz/NathaRuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
