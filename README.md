@@ -5,13 +5,9 @@
 
   
 ## About me
-- 👋 Hi, I’m @NathaRuiz
 - 👀 I love learning new things.
 - 📚 I’m currently learning Junior fullstack web developper in Bootcamp Factoría F5 - Desarrollo Full Stack 850h.
 - 💟I love animals and watching romantic comedy movies.
-- Sometimes.......
-  
-  <img src="https://user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif" width="200" />
 
 ## :mailbox: Contact me
 
@@ -32,7 +28,7 @@
 ## My Current Stack (I'm learning 👩‍💻📚..)
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="100"/>
- <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,php,vscode,nodejs,postman,git)](https://skillicons.dev"/>
+ <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,react,php,vscode,nodejs,postman,git)](https://skillicons.dev"/>
 </p>
 <!---
 NathaRuiz/NathaRuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
